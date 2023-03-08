@@ -10,7 +10,7 @@ Note: The dataset used in this project is not publicly available. Therefore, the
 A preliminary accuracy of 84% was achieved on the validation dataset with this method. For more details on the results and analysis, please refer to the report.pdf file.
 
 ## Credits
-This project was created by Vardhan, Bharat, and Lokesh. The team would like to acknowledge the contributions of the mobile biometric course instructors Dr. @tempestt-neal and the University of South Florida.
+This project was created by Vardhan, Bharat, and Lokesh. The team would like to acknowledge the contributions of the mobile biometric course instructor [Dr. Tempestt Neal]([https://github.com/tempestt-neal]) and the University of South Florida.
 
 
 
